@@ -1,0 +1,5 @@
+t = (10,20,30,40)
+print(t)
+print("Length : ",len(t))
+print("Max : ",max(t))
+print("Min : ",min(t))
